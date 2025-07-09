@@ -1,4 +1,4 @@
-!pip install matplotlib
+pip install matplotlib
 # Streamlit Dashboard: Bakery Supply Chain Inventory Simulator with Service Levels and Lead Times
 import streamlit as st
 import numpy as np
